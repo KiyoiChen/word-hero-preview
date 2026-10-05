@@ -1,0 +1,79 @@
+{
+  "pack": [
+    {
+      "url": "index.pck.part0-4be1cf8644c2ca8f1bc1a07503d261eca1a5a5243b88d16c6cd8285d6f78a732",
+      "size": 8388608
+    },
+    {
+      "url": "index.pck.part1-6b7ed31321dae807f7c4a15a91219f732f62688beed99955d1f3a10f325ae775",
+      "size": 8388608
+    },
+    {
+      "url": "index.pck.part2-ed894251df9632de70210eed600ba3f5a4b46b24c7a961ea2622df2d758add0f",
+      "size": 8388608
+    },
+    {
+      "url": "index.pck.part3-af404ab016e8633274498d68779a9dea0eaaa349075412d88afc083833ad3eb7",
+      "size": 8388608
+    },
+    {
+      "url": "index.pck.part4-fc8d1b5ae0a19f7954e66f0144f4266b75eff6ddd23ddac9af7858feaac8df6a",
+      "size": 8388608
+    },
+    {
+      "url": "index.pck.part5-8d3a18baee823e0c4490f408ad736a46abc766e2f00b3bf0d52d3a5d13895b87",
+      "size": 8388608
+    },
+    {
+      "url": "index.pck.part6-716c778de10178c8dc4e86c883ece45a373b25eaaf159b19c459339a892c813d",
+      "size": 8388608
+    },
+    {
+      "url": "index.pck.part7-db562812b113a2e3a8082159431b0c8d61cc7abf2d4f101ada542f65e8328354",
+      "size": 8388608
+    },
+    {
+      "url": "index.pck.part8-dd08a5d74249d031aa864852a1dc3ffd8362b30acde14dc43c01fc5f43efdd12",
+      "size": 8388608
+    },
+    {
+      "url": "index.pck.part9-f2e7d5ef2f64101da18f201b4807039bbb01578856b6dac4360d36545f75d434",
+      "size": 8388608
+    },
+    {
+      "url": "index.pck.part10-1d1c5ddfa7ae7a8e104bb3ee820d401a663cab26e46ead1bb74cc7a6f9b3a436",
+      "size": 8388608
+    },
+    {
+      "url": "index.pck.part11-560d9f63bc504346d541e310ff30a04697a94ab2e68b3ee01b1c1470d1e981b5",
+      "size": 8388608
+    },
+    {
+      "url": "index.pck.part12-feef2a4ac1b91e6f738f3b833096c984a54468b14f9c40d897fb88a1dd8ca0f1",
+      "size": 8388608
+    },
+    {
+      "url": "index.pck.part13-33ce56e630c6a538089bcbc3ac38d31eaf0ebddb16ccd33a56d4d8c0c6107aa5",
+      "size": 8388608
+    },
+    {
+      "url": "index.pck.part14-3c9b0bc9f3bf80f05bb1d40bfcc2ae828d201ce3a397d4bb32506ad27902a26e",
+      "size": 8388608
+    },
+    {
+      "url": "index.pck.part15-893ca3b61f2789e470769528a2df6ad067997b3f030ac0bbbb28693dfc7b77a1",
+      "size": 8388608
+    },
+    {
+      "url": "index.pck.part16-722ab79db2b463e3d892780de8beb21e4b8505c8d39919af24979a019aaf5a88",
+      "size": 7632200
+    }
+  ],
+  "wasm": {
+    "size": 39514754,
+    "gzip": {
+      "url": "index.wasm.gz",
+      "size": 10054758
+    }
+  }
+}
