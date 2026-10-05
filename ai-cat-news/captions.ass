@@ -1,0 +1,18 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 720
+PlayResY: 1280
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Main,Noto Sans CJK TC,36,&H00FFFFFF,&H000000FF,&H001A1A1A,&H88000000,-1,0,0,0,100,100,0,0,1,3,1,2,38,38,80,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.86,Main,,0,0,0,,愚蠢的人類……
+Dialogue: 0,0:00:01.86,0:00:09.05,Main,,0,0,0,,AI 都快把你們淘汰了，\N你還在每次重打同一串指令？
+Dialogue: 0,0:00:09.05,0:00:16.16,Main,,0,0,0,,Gemini Skills，簡單講，\N就是把你常用的指令存起來。
+Dialogue: 0,0:00:16.16,0:00:25.17,Main,,0,0,0,,上班整理會議、家長整理學校通知，\N都不用每次重新教 AI。
+Dialogue: 0,0:00:25.17,0:00:30.78,Main,,0,0,0,,好了，去試。\N不要再讓本貓解釋第二次。
